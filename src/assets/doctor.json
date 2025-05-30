@@ -1,0 +1,682 @@
+[
+    {
+      "id": 1,
+      "doctorName": "Dr. Ayu Maharani, Sp.DE",
+      "specialization": "Dentistry",
+      "availability": {
+        "days": [
+          "Friday",
+          "Wednesday",
+          "Tuesday"
+        ],
+        "time": {
+          "start": "08:00",
+          "end": "14:00"
+        }
+      },
+      "ratings": {
+        "average": 4.5,
+        "reviewsCount": 95
+      },
+      "services": [
+        "ENT Check",
+        "Eye Examination",
+        "Blood Pressure Monitoring"
+      ],
+      "clinic": {
+        "name": "Sehat Selalu Clinic",
+        "address": "Jl. Kesehatan No. 10, Jakarta",
+        "location": {
+          "latitude": -6.313567,
+          "longitude": 106.429616
+        }
+      },
+      "profileImage": "https://tse3.mm.bing.net/th?id=OIP.JW_4m4RVV4ywf0aiB6TWrgHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 2,
+      "doctorName": "Dr. Budi Santoso, Sp.CA",
+      "specialization": "Cardiology",
+      "availability": {
+        "days": [
+          "Friday",
+          "Monday",
+          "Wednesday"
+        ],
+        "time": {
+          "start": "08:00",
+          "end": "14:00"
+        }
+      },
+      "ratings": {
+        "average": 3.9,
+        "reviewsCount": 186
+      },
+      "services": [
+        "Heart Screening",
+        "General Check-up",
+        "Skin Treatment"
+      ],
+      "clinic": {
+        "name": "Medika Sentosa",
+        "address": "Jl. Harapan No. 15, Yogyakarta",
+        "location": {
+          "latitude": -6.238489,
+          "longitude": 106.6448
+        }
+      },
+      "profileImage": "https://tse3.mm.bing.net/th?id=OIP.JW_4m4RVV4ywf0aiB6TWrgHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 3,
+      "doctorName": "Dr. Clara Wijaya, Sp.EN",
+      "specialization": "ENT",
+      "availability": {
+        "days": [
+          "Tuesday",
+          "Monday",
+          "Wednesday"
+        ],
+        "time": {
+          "start": "08:00",
+          "end": "14:00"
+        }
+      },
+      "ratings": {
+        "average": 4.1,
+        "reviewsCount": 152
+      },
+      "services": [
+        "Blood Pressure Monitoring",
+        "Skin Treatment",
+        "Diabetes Consultation"
+      ],
+      "clinic": {
+        "name": "Klinik Mandiri",
+        "address": "Jl. Medika No. 8, Surabaya",
+        "location": {
+          "latitude": -6.04967,
+          "longitude": 106.274037
+        }
+      },
+      "profileImage": "https://tse3.mm.bing.net/th?id=OIP.JW_4m4RVV4ywf0aiB6TWrgHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 4,
+      "doctorName": "Dr. Dedi Pratama, Sp.DE",
+      "specialization": "Dentistry",
+      "availability": {
+        "days": [
+          "Thursday",
+          "Tuesday",
+          "Wednesday"
+        ],
+        "time": {
+          "start": "08:00",
+          "end": "14:00"
+        }
+      },
+      "ratings": {
+        "average": 4.5,
+        "reviewsCount": 187
+      },
+      "services": [
+        "Therapy Session",
+        "Skin Treatment",
+        "Eye Examination"
+      ],
+      "clinic": {
+        "name": "Sehat Selalu Clinic",
+        "address": "Jl. Sehat No. 22, Bandung",
+        "location": {
+          "latitude": -6.05087,
+          "longitude": 106.459711
+        }
+      },
+      "profileImage": "https://tse3.mm.bing.net/th?id=OIP.JW_4m4RVV4ywf0aiB6TWrgHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 5,
+      "doctorName": "Dr. Eka Putri, Sp.DE",
+      "specialization": "Dermatology",
+      "availability": {
+        "days": [
+          "Friday",
+          "Monday",
+          "Thursday"
+        ],
+        "time": {
+          "start": "08:00",
+          "end": "14:00"
+        }
+      },
+      "ratings": {
+        "average": 4.7,
+        "reviewsCount": 96
+      },
+      "services": [
+        "Blood Pressure Monitoring",
+        "Eye Examination",
+        "Skin Treatment"
+      ],
+      "clinic": {
+        "name": "Klinik Harapan Bunda",
+        "address": "Jl. Medika No. 8, Surabaya",
+        "location": {
+          "latitude": -7.333717,
+          "longitude": 106.106508
+        }
+      },
+      "profileImage": "https://tse3.mm.bing.net/th?id=OIP.JW_4m4RVV4ywf0aiB6TWrgHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 6,
+      "doctorName": "Dr. Farhan Yusuf, Sp.PE",
+      "specialization": "Pediatrics",
+      "availability": {
+        "days": [
+          "Wednesday",
+          "Friday",
+          "Thursday"
+        ],
+        "time": {
+          "start": "08:00",
+          "end": "14:00"
+        }
+      },
+      "ratings": {
+        "average": 4.7,
+        "reviewsCount": 265
+      },
+      "services": [
+        "Therapy Session",
+        "Diabetes Consultation",
+        "Dental Cleaning"
+      ],
+      "clinic": {
+        "name": "Sehat Selalu Clinic",
+        "address": "Jl. Klinik No. 5, Bali",
+        "location": {
+          "latitude": -6.57234,
+          "longitude": 106.098146
+        }
+      },
+      "profileImage": "https://tse3.mm.bing.net/th?id=OIP.JW_4m4RVV4ywf0aiB6TWrgHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 7,
+      "doctorName": "Dr. Gina Lestari, Sp.PE",
+      "specialization": "Pediatrics",
+      "availability": {
+        "days": [
+          "Thursday",
+          "Monday",
+          "Wednesday"
+        ],
+        "time": {
+          "start": "08:00",
+          "end": "14:00"
+        }
+      },
+      "ratings": {
+        "average": 3.8,
+        "reviewsCount": 127
+      },
+      "services": [
+        "Diabetes Consultation",
+        "Therapy Session",
+        "Skin Treatment"
+      ],
+      "clinic": {
+        "name": "Sehat Selalu Clinic",
+        "address": "Jl. Sehat No. 22, Bandung",
+        "location": {
+          "latitude": -7.373687,
+          "longitude": 106.060689
+        }
+      },
+      "profileImage": "https://tse3.mm.bing.net/th?id=OIP.JW_4m4RVV4ywf0aiB6TWrgHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 8,
+      "doctorName": "Dr. Hendra Gunawan, Sp.EN",
+      "specialization": "ENT",
+      "availability": {
+        "days": [
+          "Monday",
+          "Wednesday",
+          "Friday"
+        ],
+        "time": {
+          "start": "08:00",
+          "end": "14:00"
+        }
+      },
+      "ratings": {
+        "average": 5.0,
+        "reviewsCount": 71
+      },
+      "services": [
+        "General Check-up",
+        "Therapy Session",
+        "Heart Screening"
+      ],
+      "clinic": {
+        "name": "Sahabat Sehat Clinic",
+        "address": "Jl. Harapan No. 15, Yogyakarta",
+        "location": {
+          "latitude": -6.924233,
+          "longitude": 106.95193
+        }
+      },
+      "profileImage": "https://tse3.mm.bing.net/th?id=OIP.JW_4m4RVV4ywf0aiB6TWrgHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 9,
+      "doctorName": "Dr. Intan Sari, Sp.IN",
+      "specialization": "Internal Medicine",
+      "availability": {
+        "days": [
+          "Monday",
+          "Friday",
+          "Tuesday"
+        ],
+        "time": {
+          "start": "08:00",
+          "end": "14:00"
+        }
+      },
+      "ratings": {
+        "average": 4.5,
+        "reviewsCount": 109
+      },
+      "services": [
+        "Skin Treatment",
+        "Eye Examination",
+        "Therapy Session"
+      ],
+      "clinic": {
+        "name": "Prima Medika",
+        "address": "Jl. Medika No. 8, Surabaya",
+        "location": {
+          "latitude": -6.275178,
+          "longitude": 106.2518
+        }
+      },
+      "profileImage": "https://tse3.mm.bing.net/th?id=OIP.JW_4m4RVV4ywf0aiB6TWrgHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 10,
+      "doctorName": "Dr. Joko Susilo, Sp.PS",
+      "specialization": "Psychiatry",
+      "availability": {
+        "days": [
+          "Tuesday",
+          "Friday",
+          "Monday"
+        ],
+        "time": {
+          "start": "08:00",
+          "end": "14:00"
+        }
+      },
+      "ratings": {
+        "average": 4.1,
+        "reviewsCount": 194
+      },
+      "services": [
+        "Therapy Session",
+        "Eye Examination",
+        "Diabetes Consultation"
+      ],
+      "clinic": {
+        "name": "Medika Sentosa",
+        "address": "Jl. Sehat No. 22, Bandung",
+        "location": {
+          "latitude": -6.691476,
+          "longitude": 106.671451
+        }
+      },
+      "profileImage": "https://tse3.mm.bing.net/th?id=OIP.JW_4m4RVV4ywf0aiB6TWrgHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 11,
+      "doctorName": "Dr. Kartika Dewi, Sp.OP",
+      "specialization": "Ophthalmology",
+      "availability": {
+        "days": [
+          "Thursday",
+          "Monday",
+          "Friday"
+        ],
+        "time": {
+          "start": "08:00",
+          "end": "14:00"
+        }
+      },
+      "ratings": {
+        "average": 4.3,
+        "reviewsCount": 210
+      },
+      "services": [
+        "Eye Examination",
+        "Heart Screening",
+        "Therapy Session"
+      ],
+      "clinic": {
+        "name": "Medika Sentosa",
+        "address": "Jl. Harapan No. 15, Yogyakarta",
+        "location": {
+          "latitude": -7.087734,
+          "longitude": 106.571301
+        }
+      },
+      "profileImage": "https://tse3.mm.bing.net/th?id=OIP.JW_4m4RVV4ywf0aiB6TWrgHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 12,
+      "doctorName": "Dr. Lukman Hakim, Sp.DE",
+      "specialization": "Dentistry",
+      "availability": {
+        "days": [
+          "Friday",
+          "Thursday",
+          "Tuesday"
+        ],
+        "time": {
+          "start": "08:00",
+          "end": "14:00"
+        }
+      },
+      "ratings": {
+        "average": 3.8,
+        "reviewsCount": 226
+      },
+      "services": [
+        "Eye Examination",
+        "Skin Treatment",
+        "Dental Cleaning"
+      ],
+      "clinic": {
+        "name": "Sahabat Sehat Clinic",
+        "address": "Jl. Medika No. 8, Surabaya",
+        "location": {
+          "latitude": -6.937902,
+          "longitude": 106.607782
+        }
+      },
+      "profileImage": "https://tse3.mm.bing.net/th?id=OIP.JW_4m4RVV4ywf0aiB6TWrgHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 13,
+      "doctorName": "Dr. Maya Anjani, Sp.OP",
+      "specialization": "Ophthalmology",
+      "availability": {
+        "days": [
+          "Friday",
+          "Tuesday",
+          "Thursday"
+        ],
+        "time": {
+          "start": "08:00",
+          "end": "14:00"
+        }
+      },
+      "ratings": {
+        "average": 4.7,
+        "reviewsCount": 190
+      },
+      "services": [
+        "Heart Screening",
+        "General Check-up",
+        "Blood Pressure Monitoring"
+      ],
+      "clinic": {
+        "name": "Sehat Selalu Clinic",
+        "address": "Jl. Klinik No. 5, Bali",
+        "location": {
+          "latitude": -7.45596,
+          "longitude": 106.211406
+        }
+      },
+      "profileImage": "https://tse3.mm.bing.net/th?id=OIP.JW_4m4RVV4ywf0aiB6TWrgHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 14,
+      "doctorName": "Dr. Nugroho Adi, Sp.DE",
+      "specialization": "Dermatology",
+      "availability": {
+        "days": [
+          "Tuesday",
+          "Wednesday",
+          "Friday"
+        ],
+        "time": {
+          "start": "08:00",
+          "end": "14:00"
+        }
+      },
+      "ratings": {
+        "average": 4.3,
+        "reviewsCount": 112
+      },
+      "services": [
+        "Diabetes Consultation",
+        "ENT Check",
+        "Skin Treatment"
+      ],
+      "clinic": {
+        "name": "Sehat Selalu Clinic",
+        "address": "Jl. Harapan No. 15, Yogyakarta",
+        "location": {
+          "latitude": -6.873844,
+          "longitude": 106.481971
+        }
+      },
+      "profileImage": "https://tse3.mm.bing.net/th?id=OIP.JW_4m4RVV4ywf0aiB6TWrgHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 15,
+      "doctorName": "Dr. Oktavia Putra, Sp.CA",
+      "specialization": "Cardiology",
+      "availability": {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday"
+        ],
+        "time": {
+          "start": "08:00",
+          "end": "14:00"
+        }
+      },
+      "ratings": {
+        "average": 4.8,
+        "reviewsCount": 232
+      },
+      "services": [
+        "ENT Check",
+        "Heart Screening",
+        "Eye Examination"
+      ],
+      "clinic": {
+        "name": "Klinik Ceria",
+        "address": "Jl. Medika No. 8, Surabaya",
+        "location": {
+          "latitude": -6.559903,
+          "longitude": 106.973165
+        }
+      },
+      "profileImage": "https://tse3.mm.bing.net/th?id=OIP.JW_4m4RVV4ywf0aiB6TWrgHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 16,
+      "doctorName": "Dr. Putri Nirmala, Sp.DE",
+      "specialization": "Dermatology",
+      "availability": {
+        "days": [
+          "Tuesday",
+          "Friday",
+          "Wednesday"
+        ],
+        "time": {
+          "start": "08:00",
+          "end": "14:00"
+        }
+      },
+      "ratings": {
+        "average": 4.6,
+        "reviewsCount": 169
+      },
+      "services": [
+        "Eye Examination",
+        "Therapy Session",
+        "Dental Cleaning"
+      ],
+      "clinic": {
+        "name": "Prima Medika",
+        "address": "Jl. Sehat No. 22, Bandung",
+        "location": {
+          "latitude": -6.474989,
+          "longitude": 106.818665
+        }
+      },
+      "profileImage": "https://tse3.mm.bing.net/th?id=OIP.JW_4m4RVV4ywf0aiB6TWrgHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 17,
+      "doctorName": "Dr. Qory Azizah, Sp.DE",
+      "specialization": "Dermatology",
+      "availability": {
+        "days": [
+          "Monday",
+          "Thursday",
+          "Tuesday"
+        ],
+        "time": {
+          "start": "08:00",
+          "end": "14:00"
+        }
+      },
+      "ratings": {
+        "average": 4.6,
+        "reviewsCount": 150
+      },
+      "services": [
+        "Skin Treatment",
+        "Heart Screening",
+        "ENT Check"
+      ],
+      "clinic": {
+        "name": "Medika Sentosa",
+        "address": "Jl. Medika No. 8, Surabaya",
+        "location": {
+          "latitude": -6.20402,
+          "longitude": 106.440311
+        }
+      },
+      "profileImage": "https://tse3.mm.bing.net/th?id=OIP.JW_4m4RVV4ywf0aiB6TWrgHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 18,
+      "doctorName": "Dr. Rizal Ramadhan, Sp.PE",
+      "specialization": "Pediatrics",
+      "availability": {
+        "days": [
+          "Wednesday",
+          "Tuesday",
+          "Monday"
+        ],
+        "time": {
+          "start": "08:00",
+          "end": "14:00"
+        }
+      },
+      "ratings": {
+        "average": 4.3,
+        "reviewsCount": 221
+      },
+      "services": [
+        "Therapy Session",
+        "ENT Check",
+        "Skin Treatment"
+      ],
+      "clinic": {
+        "name": "Klinik Harapan Bunda",
+        "address": "Jl. Harapan No. 15, Yogyakarta",
+        "location": {
+          "latitude": -7.20423,
+          "longitude": 106.092344
+        }
+      },
+      "profileImage": "https://tse3.mm.bing.net/th?id=OIP.JW_4m4RVV4ywf0aiB6TWrgHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 19,
+      "doctorName": "Dr. Siti Nurhaliza, Sp.IN",
+      "specialization": "Internal Medicine",
+      "availability": {
+        "days": [
+          "Tuesday",
+          "Thursday",
+          "Wednesday"
+        ],
+        "time": {
+          "start": "08:00",
+          "end": "14:00"
+        }
+      },
+      "ratings": {
+        "average": 3.8,
+        "reviewsCount": 68
+      },
+      "services": [
+        "Blood Pressure Monitoring",
+        "Diabetes Consultation",
+        "Eye Examination"
+      ],
+      "clinic": {
+        "name": "Sahabat Sehat Clinic",
+        "address": "Jl. Klinik No. 5, Bali",
+        "location": {
+          "latitude": -6.601843,
+          "longitude": 106.598585
+        }
+      },
+      "profileImage": "https://tse3.mm.bing.net/th?id=OIP.JW_4m4RVV4ywf0aiB6TWrgHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 20,
+      "doctorName": "Dr. Tito Wardhana, Sp.OP",
+      "specialization": "Ophthalmology",
+      "availability": {
+        "days": [
+          "Monday",
+          "Friday",
+          "Tuesday"
+        ],
+        "time": {
+          "start": "08:00",
+          "end": "14:00"
+        }
+      },
+      "ratings": {
+        "average": 4.3,
+        "reviewsCount": 287
+      },
+      "services": [
+        "Eye Examination",
+        "Dental Cleaning",
+        "Diabetes Consultation"
+      ],
+      "clinic": {
+        "name": "Prima Medika",
+        "address": "Jl. Harapan No. 15, Yogyakarta",
+        "location": {
+          "latitude": -6.135814,
+          "longitude": 106.051749
+        }
+      },
+      "profileImage": "https://tse3.mm.bing.net/th?id=OIP.JW_4m4RVV4ywf0aiB6TWrgHaLH&pid=Api&P=0&h=180"
+    }
+  ]

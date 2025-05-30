@@ -1,0 +1,32 @@
+[
+  { "id": 1, "nama": "Paracetamol", "kategori": "Obat", "harga": 10000 },
+  { "id": 2, "nama": "Ibuprofen", "kategori": "Obat", "harga": 12000 },
+  { "id": 3, "nama": "Amoxicillin", "kategori": "Antibiotik", "harga": 18000 },
+  { "id": 4, "nama": "Cetirizine", "kategori": "Antihistamin", "harga": 9500 },
+  { "id": 5, "nama": "Vitamin C", "kategori": "Suplemen", "harga": 8500 },
+  { "id": 6, "nama": "Omeprazole", "kategori": "Lambung", "harga": 14000 },
+  { "id": 7, "nama": "Simvastatin", "kategori": "Kolesterol", "harga": 13000 },
+  { "id": 8, "nama": "Losartan", "kategori": "Hipertensi", "harga": 15000 },
+  { "id": 9, "nama": "Metformin", "kategori": "Diabetes", "harga": 16000 },
+  { "id": 10, "nama": "Dextromethorphan", "kategori": "Batuk", "harga": 7500 },
+  { "id": 11, "nama": "Salbutamol", "kategori": "Asma", "harga": 11000 },
+  { "id": 12, "nama": "Loperamide", "kategori": "Diare", "harga": 9000 },
+  { "id": 13, "nama": "Antasida", "kategori": "Maag", "harga": 8000 },
+  { "id": 14, "nama": "Zinc", "kategori": "Suplemen", "harga": 9500 },
+  {
+    "id": 15,
+    "nama": "Chlorpheniramine",
+    "kategori": "Antihistamin",
+    "harga": 7000
+  },
+  { "id": 16, "nama": "Ranitidine", "kategori": "Lambung", "harga": 12000 },
+  {
+    "id": 17,
+    "nama": "Erythromycin",
+    "kategori": "Antibiotik",
+    "harga": 19000
+  },
+  { "id": 18, "nama": "Furosemide", "kategori": "Diuretik", "harga": 13500 },
+  { "id": 19, "nama": "Hydrocortisone", "kategori": "Salep", "harga": 17000 },
+  { "id": 20, "nama": "Aspirin", "kategori": "Obat", "harga": 10500 }
+]
