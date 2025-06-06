@@ -1,0 +1,17 @@
+[
+  { "id": 1, "nama": "Siti Aminah", "jabatan": "HR Manager", "foto": "https://randomuser.me/api/portraits/women/1.jpg" },
+  { "id": 2, "nama": "Rizky Fahmi", "jabatan": "Software Engineer", "foto": "https://randomuser.me/api/portraits/men/2.jpg" },
+  { "id": 3, "nama": "Andini Pratiwi", "jabatan": "General Practitioner", "foto": "https://randomuser.me/api/portraits/women/3.jpg" },
+  { "id": 4, "nama": "Bagus Nugroho", "jabatan": "Product Manager", "foto": "https://randomuser.me/api/portraits/men/4.jpg" },
+  { "id": 5, "nama": "Nadia Lestari", "jabatan": "Nutritionist", "foto": "https://randomuser.me/api/portraits/women/5.jpg" },
+  { "id": 6, "nama": "Arif Kurniawan", "jabatan": "Mobile Developer", "foto": "https://randomuser.me/api/portraits/men/6.jpg" },
+  { "id": 7, "nama": "Mega Sari", "jabatan": "Psychologist", "foto": "https://randomuser.me/api/portraits/women/7.jpg" },
+  { "id": 8, "nama": "Fajar Prakoso", "jabatan": "DevOps Engineer", "foto": "https://randomuser.me/api/portraits/men/8.jpg" },
+  { "id": 9, "nama": "Ayu Wulandari", "jabatan": "UI/UX Designer", "foto": "https://randomuser.me/api/portraits/women/9.jpg" },
+  { "id": 10, "nama": "Dimas Saputra", "jabatan": "Data Analyst", "foto": "https://randomuser.me/api/portraits/men/10.jpg" },
+  { "id": 11, "nama": "Lina Marissa", "jabatan": "Nurse Coordinator", "foto": "https://randomuser.me/api/portraits/women/11.jpg" },
+  { "id": 12, "nama": "Agung Purnama", "jabatan": "Backend Developer", "foto": "https://randomuser.me/api/portraits/men/12.jpg" },
+  { "id": 13, "nama": "Citra Dewi", "jabatan": "Medical Consultant", "foto": "https://randomuser.me/api/portraits/women/13.jpg" },
+  { "id": 14, "nama": "Hendra Wijaya", "jabatan": "Security Officer", "foto": "https://randomuser.me/api/portraits/men/14.jpg" },
+  { "id": 15, "nama": "Farah Nabila", "jabatan": "Customer Support", "foto": "https://randomuser.me/api/portraits/women/15.jpg" }
+]

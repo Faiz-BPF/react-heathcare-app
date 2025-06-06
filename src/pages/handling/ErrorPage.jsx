@@ -1,13 +1,14 @@
 import React from "react";
 import { BsArrowRepeat } from "react-icons/bs";
+import { NavLink } from "react-router-dom";
 
 export default function ErrorPage({ code, image, children }) {
   return (
-    <div className="flex items-center justify-center min-h-screen bg-[#864AF9]">
-      <div className="bg-[#FFF3F3] rounded-3xl p-10 w-[500px] text-center shadow-lg">
+    <div className="flex items-center justify-center min-h-screen bg-[#4a5ef9]">
+      <div className="bg-[#ffffff] rounded-3xl p-10 w-[500px] text-center shadow-lg">
         {children}
 
-        <div className="relative text-[100px] font-bold text-[#FFD0D0] mb-4">
+        <div className="relative text-[100px] font-bold text-[#d0e6ff] mb-4">
           <span>{code}</span>
 
           {image && (
@@ -19,10 +20,10 @@ export default function ErrorPage({ code, image, children }) {
           )}
         </div>
 
-        <button className="mt-6 inline-flex items-center gap-2 text-sm font-medium text-black hover:underline">
-          <BsArrowRepeat />
+        <NavLink to="/" className="mt-6 inline-flex items-center gap-2 text-sm font-medium text-black hover:underline">
+          <BsArrowRepeat/>
           Go Home
-        </button>
+        </NavLink>
       </div>
     </div>
   );

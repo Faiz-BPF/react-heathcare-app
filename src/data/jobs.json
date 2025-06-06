@@ -1,0 +1,4 @@
+[
+  { "id": 1, "posisi": "Frontend Developer", "deskripsi": "Membangun UI dengan React", "lokasi": "Jakarta" },
+  { "id": 2, "posisi": "UI/UX Designer", "deskripsi": "Mendesain pengalaman pengguna", "lokasi": "Bandung" }
+]

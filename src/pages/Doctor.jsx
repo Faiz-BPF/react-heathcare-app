@@ -13,8 +13,8 @@ export default function Doctor() {
   }, []);
 
   const theadData = [
-    "Doctors ID",
-    "Doctors Name",
+    "ID",
+    "Name",
     "Photo",
     "Specialization",
     "Clinic",

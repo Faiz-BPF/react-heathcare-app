@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "pertanyaan": "Bagaimana cara mendaftar?",
+    "jawaban": "Silakan isi formulir pendaftaran dengan data diri Anda di halaman utama aplikasi."
+  },
+  {
+    "id": 2,
+    "pertanyaan": "Apakah layanan ini gratis?",
+    "jawaban": "Ya, sebagian besar layanan dasar seperti konsultasi awal dan pencatatan riwayat kesehatan tersedia secara gratis."
+  },
+  {
+    "id": 3,
+    "pertanyaan": "Apakah saya bisa memilih dokter sendiri?",
+    "jawaban": "Tentu, Anda dapat memilih dokter berdasarkan spesialisasi, rating, dan ketersediaan jadwal."
+  },
+  {
+    "id": 4,
+    "pertanyaan": "Bagaimana cara melakukan konsultasi online?",
+    "jawaban": "Setelah memilih dokter, Anda bisa menjadwalkan konsultasi online melalui fitur chat atau video call dalam aplikasi."
+  },
+  {
+    "id": 5,
+    "pertanyaan": "Apakah bisa memesan obat lewat aplikasi?",
+    "jawaban": "Ya, resep dari dokter bisa langsung ditebus dan dikirim ke alamat Anda melalui layanan apotek online kami."
+  },
+  {
+    "id": 6,
+    "pertanyaan": "Bagaimana cara melihat riwayat medis saya?",
+    "jawaban": "Riwayat medis Anda tersimpan secara otomatis dan dapat diakses melalui menu 'Profil Kesehatan'."
+  },
+  {
+    "id": 7,
+    "pertanyaan": "Apakah data saya aman?",
+    "jawaban": "Kami menggunakan sistem enkripsi dan protokol keamanan tinggi untuk melindungi data pribadi dan medis Anda."
+  },
+  {
+    "id": 8,
+    "pertanyaan": "Apakah tersedia layanan darurat?",
+    "jawaban": "Ya, tersedia tombol darurat untuk menghubungi layanan medis 24 jam jika Anda membutuhkan bantuan segera."
+  },
+  {
+    "id": 9,
+    "pertanyaan": "Bagaimana cara mengubah jadwal konsultasi?",
+    "jawaban": "Anda dapat mengubah jadwal konsultasi melalui menu 'Janji Temu Saya' selama minimal 1 jam sebelum waktu konsultasi."
+  },
+  {
+    "id": 10,
+    "pertanyaan": "Apakah layanan ini tersedia di seluruh Indonesia?",
+    "jawaban": "Saat ini kami melayani wilayah Indonesia dengan jaringan dokter dan apotek yang terus bertambah setiap minggunya."
+  },
+  {
+    "id": 11,
+    "pertanyaan": "Apakah bisa konsultasi untuk anak-anak?",
+    "jawaban": "Ya, tersedia dokter spesialis anak yang siap membantu permasalahan kesehatan buah hati Anda."
+  },
+  {
+    "id": 12,
+    "pertanyaan": "Bagaimana cara membayar layanan premium?",
+    "jawaban": "Pembayaran dapat dilakukan melalui dompet digital, kartu debit/kredit, atau transfer bank yang tersedia di aplikasi."
+  },
+  {
+    "id": 13,
+    "pertanyaan": "Apakah saya bisa mengunduh hasil diagnosa?",
+    "jawaban": "Ya, hasil konsultasi dan diagnosa dapat diunduh dalam format PDF melalui riwayat konsultasi Anda."
+  }
+]

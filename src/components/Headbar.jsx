@@ -1,9 +1,10 @@
 import { Bell } from "lucide-react";
 import { FaBars, FaFlag } from "react-icons/fa";
+import profileAdmin from "../assets/img/profileAdmin.jpg";
 
 export default function Headbar() {
   return (
-    <div className="flex justify-between items-center px-6 py-3 bg-white shadow-sm">
+    <div className="fixed w-328 top-0 flex justify-between items-center px-6 py-5 bg-white shadow-sm z-50">
       <input
         type="text"
         placeholder="Search"
@@ -16,15 +17,14 @@ export default function Headbar() {
             6
           </span>
         </div>
-        <FaFlag className="text-xl text-gray-700" />
         <div className="flex items-center gap-2">
           <img
-            src="https://vectorified.com/images/admin-logo-icon-7.png"
+            src={profileAdmin}
             alt="Admin"
-            className="w-8 h-8 rounded-full border"
+            className="w-10 h-10 rounded-full border"
           />
-          <div className="text-sm">
-            <p className="font-semibold">Moni Roy</p>
+          <div className="text-sm flex flex-col">
+            <p className="font-semibold">Muhammad Faiz</p>
             <p className="text-gray-500">Admin</p>
           </div>
         </div>

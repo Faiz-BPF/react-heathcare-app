@@ -1,0 +1,15 @@
+[
+  { "id": 1, "nama": "Budi Santoso", "pesan": "Pelayanan sangat memuaskan dan cepat tanggap!", "rating": 5 },
+  { "id": 2, "nama": "Lina Marlina", "pesan": "Saya suka dengan respon CS yang ramah.", "rating": 4 },
+  { "id": 3, "nama": "Dewi Kusuma", "pesan": "Dokternya sangat profesional dan sabar menjelaskan.", "rating": 5 },
+  { "id": 4, "nama": "Agus Rahman", "pesan": "Fitur konsultasi online sangat membantu saya selama pandemi.", "rating": 5 },
+  { "id": 5, "nama": "Sari Melati", "pesan": "Pengiriman obat tepat waktu dan kemasan sangat aman.", "rating": 4 },
+  { "id": 6, "nama": "Hendra Saputra", "pesan": "Aplikasi mudah digunakan dan informasi medis lengkap.", "rating": 5 },
+  { "id": 7, "nama": "Fitri Andayani", "pesan": "Layanan darurat cepat tanggap, sangat menolong saat kondisi kritis.", "rating": 5 },
+  { "id": 8, "nama": "Rizal Firmansyah", "pesan": "Pembayaran mudah dan tersedia banyak pilihan metode.", "rating": 4 },
+  { "id": 9, "nama": "Maya Safitri", "pesan": "Jadwal konsultasi fleksibel sesuai kebutuhan saya.", "rating": 4 },
+  { "id": 10, "nama": "Joko Pratama", "pesan": "Data kesehatan saya selalu terjaga dan aman.", "rating": 5 },
+  { "id": 11, "nama": "Nina Putri", "pesan": "Dokter anaknya sangat ramah dan sabar.", "rating": 5 },
+  { "id": 12, "nama": "Fauzi Albar", "pesan": "Saya merasa lebih tenang dengan pengingat obat otomatis.", "rating": 4 },
+  { "id": 13, "nama": "Siti Nurhaliza", "pesan": "Layanan konsultasi premium sangat membantu masalah kesehatan saya.", "rating": 5 }
+]
